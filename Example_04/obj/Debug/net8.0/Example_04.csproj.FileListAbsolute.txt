@@ -1,0 +1,15 @@
+C:\Users\MkaGodh\Desktop\Обучение\Знакомство с ЯП\HW_Lesson02\Example_04\bin\Debug\net8.0\Example_04.exe
+C:\Users\MkaGodh\Desktop\Обучение\Знакомство с ЯП\HW_Lesson02\Example_04\bin\Debug\net8.0\Example_04.deps.json
+C:\Users\MkaGodh\Desktop\Обучение\Знакомство с ЯП\HW_Lesson02\Example_04\bin\Debug\net8.0\Example_04.runtimeconfig.json
+C:\Users\MkaGodh\Desktop\Обучение\Знакомство с ЯП\HW_Lesson02\Example_04\bin\Debug\net8.0\Example_04.dll
+C:\Users\MkaGodh\Desktop\Обучение\Знакомство с ЯП\HW_Lesson02\Example_04\bin\Debug\net8.0\Example_04.pdb
+C:\Users\MkaGodh\Desktop\Обучение\Знакомство с ЯП\HW_Lesson02\Example_04\obj\Debug\net8.0\Example_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MkaGodh\Desktop\Обучение\Знакомство с ЯП\HW_Lesson02\Example_04\obj\Debug\net8.0\Example_04.AssemblyInfoInputs.cache
+C:\Users\MkaGodh\Desktop\Обучение\Знакомство с ЯП\HW_Lesson02\Example_04\obj\Debug\net8.0\Example_04.AssemblyInfo.cs
+C:\Users\MkaGodh\Desktop\Обучение\Знакомство с ЯП\HW_Lesson02\Example_04\obj\Debug\net8.0\Example_04.csproj.CoreCompileInputs.cache
+C:\Users\MkaGodh\Desktop\Обучение\Знакомство с ЯП\HW_Lesson02\Example_04\obj\Debug\net8.0\Example_04.sourcelink.json
+C:\Users\MkaGodh\Desktop\Обучение\Знакомство с ЯП\HW_Lesson02\Example_04\obj\Debug\net8.0\Example_04.dll
+C:\Users\MkaGodh\Desktop\Обучение\Знакомство с ЯП\HW_Lesson02\Example_04\obj\Debug\net8.0\refint\Example_04.dll
+C:\Users\MkaGodh\Desktop\Обучение\Знакомство с ЯП\HW_Lesson02\Example_04\obj\Debug\net8.0\Example_04.pdb
+C:\Users\MkaGodh\Desktop\Обучение\Знакомство с ЯП\HW_Lesson02\Example_04\obj\Debug\net8.0\Example_04.genruntimeconfig.cache
+C:\Users\MkaGodh\Desktop\Обучение\Знакомство с ЯП\HW_Lesson02\Example_04\obj\Debug\net8.0\ref\Example_04.dll
